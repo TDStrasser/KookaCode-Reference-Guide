@@ -58,7 +58,7 @@ On the right is the **KookaCode** **Editing Workspace** for **MicroPython** scri
 
 Scripts can be typed, loaded from file, copied, cut and pasted in this space, by using a keyboard and mouse or track-pad or pointing device.  
 
-**KookaCode** embeds the CodeMirror`_ open‑source text editor to provide an in‑browser coding experience tailored for Python. 
+**KookaCode** embeds the `CodeMirror`_ open‑source text editor to provide an in‑browser coding experience tailored for Python. 
 The editor offers Python-aware syntax highlighting, so language constructs such as keywords, strings, numbers, comments, 
 and built‑ins are visually distinguished to improve readability and reduce syntax errors. 
 It also supports automatic indentation and standard code-editing features such as line numbers, bracket matching, 
@@ -136,8 +136,7 @@ REPL (Read-Eval-Print Loop)
 REPL stands for Read-Eval-Print Loop. It provides an interactive programming environment where the computer reads the user's input, 
 evaluates it, prints the result, and then loops back to read more input.
 
-The REPL is also known as **The MicroPython Interactive Interpreter Mode** which is fully described
- in `MicroPython REPL Documentation`_.
+The REPL is also known as **The MicroPython Interactive Interpreter Mode** which is fully described in the `MicroPython REPL Documentation`_.
 
 .. _MicroPython REPL Documentation: https://docs.micropython.org/en/latest/reference/repl.html
 
@@ -280,7 +279,7 @@ Print
    :width: 400
    :align: center
 
-   **KookaCode** Print dialogue on the Crome and Vivaldi browsers. 
+   **KookaCode** Print dialogue on the Chrome and Vivaldi browsers. 
 
 .. _printdialg:
 .. figure:: images/kcode-print-dialogue.png
