@@ -2,7 +2,7 @@ Introduction to KookaCode
 ============================
 
 KookaCode: MicroPython Programming Editor for Kookaberry Microprocessor Boards
-----------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 **KookaCode** is a powerful editor designed for creating program scripts for **Kookaberry** and related microprocessor boards. 
 

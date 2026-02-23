@@ -1,5 +1,5 @@
 
-.. image:: images/KookaCode-logo.png
+.. image:: images/KookaCode_logo.png
    :width: 70%
    :align: center
    :alt: KookaCode Logo
@@ -26,7 +26,6 @@ This guide is for **KookaCode** v1.0.
    introduction.rst
    installing.rst
    using.rst
-   conventions.rst
    glossary.rst
 
 
