@@ -5,6 +5,8 @@ This guide explains how to use the **KookaCode** application to create and un **
 
 To learn about MicroPython scripting for the **Kookaberry**, please refer to the `Kookaberry Reference Guide`_.
 
+.. _Kookaberry Reference Guide: https://kookaberry-reference-guide.readthedocs.io/en/latest/
+
 Launching KookaCode using a compatible browser on a personal computer will result in the display shown:
 
 .. _kblocsdisplay:
