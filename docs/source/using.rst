@@ -67,8 +67,9 @@ Python script development directly in the browser.
 
 The script editor has numerous keyboard shortcuts for editing commands:
 
++-------------------------------+------------------+---------------------------------------------+
 | Action                        | Windows / Linux  | macOS                                       |
-| ----------------------------- | ---------------- | ------------------------------------------- |
++===============================+==================+=============================================+
 | Select all                    | Ctrl + A         | Command + A                                 |
 | Undo                          | Ctrl + Z         | Command + Z                                 |
 | Redo                          | Ctrl + Y         | Command + Y                                 |
@@ -87,6 +88,7 @@ The script editor has numerous keyboard shortcuts for editing commands:
 | Find previous                 | Shift + Ctrl + G | Shift + Command + G                         |
 | Replace                       | Shift + Ctrl + F | Shift + Command + F or Command + Option + F |
 | Save (if bound by host app)   | Ctrl + S         | Command + S                                 |
++-------------------------------+------------------+---------------------------------------------+
 
 Selecting text and right-clicking open a context-sensitive menu of available actions.
 
