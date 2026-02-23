@@ -54,8 +54,9 @@ Using **KookaCode** is straight forward and enjoyable.
 Users can load, cut and paste, and directly edit **MicroPython**  code in the **Workspace**. 
 Code elements are coloured to emphasise **MicroPython** syntax elements.
 
-`The Kookaberry Reference Guide<https://kookaberry-reference-guide.readthedocs.io/en/latest/>`_ provides a comprehensive guide 
-to using the **Kookaberry** and programming it using **MicroPython**.
+The `Kookaberry Reference Guide`_  provides a comprehensive guide to using the **Kookaberry** and programming it using **MicroPython**.
+
+.. _Kookaberry Reference Guide: https://kookaberry-reference-guide.readthedocs.io/en/latest/
 
 With **KookaCode**, programming becomes an enjoyable, productive and accessible endeavour.
 
