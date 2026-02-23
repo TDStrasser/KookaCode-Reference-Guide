@@ -6,18 +6,16 @@ KookaCode: MicroPython Programming Editor for Kookaberry Microprocessor Boards
 
 **KookaCode** is a powerful editor designed for creating program scripts for **Kookaberry** and related microprocessor boards. 
 
-:numref:`welcomescript` shows a **MicroPython** script for the **Kookaberry** microcomputer.
-
-.. _welcomescript:
-.. figure:: images/kcode-welcome-script.png
+.. _simplescript:
+.. figure:: images/kcode-simple-script.png
    :width: 80%
    :align: center
 
 
    This is the **KookaCode** display with an example **MicroPython** script. 
 
-The example shown above shows a loop that writes a welcome message on the **Kookaberry** display and flashes the **Kookaberry**'s **LEDs**.  
-It then sleeps for 2 seconds and then goes back to the beginning of the loop.  The loop will run until the **Kookaberry** is reset or power is removed.
+The example shown above is a simple script that shows ``Hello Kookaberry`` on the **Kookaberry** display, prints ``Hello`` on the console, 
+and lights the **Kookaberry**'s green **LED**.  
 
 **KookaCode** was created by Damien George (George Robotics – MicroPython) in collaboration with Kookaberry Pty Ltd. 
 It also received support from the AustSTEM Foundation, the Warren Centre, and the Vonwiller Foundation.

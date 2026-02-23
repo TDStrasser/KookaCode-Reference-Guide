@@ -33,7 +33,7 @@ This guide is for **KookaCode** v1.0.
 
    If errors or issues are found in the **KookaCode Reference Guide** please `post an issue on GitHub`_.
 
-.. _post an issue on GitHub: https://github.com/TDStrasser/KookaCode-Reference/issues
+.. _post an issue on GitHub: https://github.com/TDStrasser/KookaCode-Reference-Guide/issues
 
 
 :Copyright:
