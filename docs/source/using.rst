@@ -258,21 +258,31 @@ Confirm the save by clicking the **Save** button, or cancel the save by clicking
 Subsequent script edits in the current editing session can be saved into the already identified file by clicking on **Save**.
 
 Print
-  Prints the current view of the **REPL**.  
+  Prints the current view of **KookaCode**'s window.  The contents will vary according to the web browser and operating system that is being used.
+
+  * On Chrome and Vivaldi the full window is printed. See :numref:`chromeprtdialg`
+  * On Edge, only the contents of the **REPL** are printed. See :numref:`printdialg`.
  
-  When the **Print** button is clicked, a Print dialogue (per the operating system convention) appears as in :numref:`printdialg`.
+  When the **Print** button is clicked, a Print dialogue (per the operating system convention) appears as below.
 
   Choose the print options, which again are specific to the PC operating system and the installed printer, 
   and then press the **Print** button to finalise printing options and then printing to the chosen printer.  
 
   Print options may include paper size, paper orientation, scaling, multi-page layout, printer selection and printer setup.
 
+.. _chromeprtdialg:
+.. figure:: images/chrome-print-dialogue.png
+   :width: 400
+   :align: center
+
+   **KookaCode** Print dialogue on the Crome and Vivaldi browsers. 
+
 .. _printdialg:
 .. figure:: images/kcode-print-dialogue.png
    :width: 400
    :align: center
 
-   **KookaCode** script Print dialogue. 
+   **KookaCode** Print dialogue on the Edge browser. 
 
 Run
   Transfers the current script to the tethered **Kookaberry** and runs the script on the **Kookaberry**.
