@@ -24,8 +24,10 @@ Key Features
 ------------
 
 Comprehensive User Interface: 
-    Users can create syntactically scripts and run them on a **Kookaberry** without needing to compile, upload and flash binary files.
-    The **Kookaberry**'s console interface is included so users can directly inspect, monitor, debug and control the **Kookaberry**.
+    **KookaCode** is an **Integrated Development Environment** (IDE).
+    Users can create **MicroPython** scripts and run them on a **Kookaberry** without needing to compile, upload and flash binary files.
+    The script editor includes Python auto-complete functionality, aiding the creation of syntactically correct **MicroPython** scripts.
+    Includes the **Kookaberry**'s console interface so users can directly inspect, monitor, debug and control the **Kookaberry**.
     The **Kookaberry** display can be viewed on the PC's display facilitating sharing for educational and documentation purposes.
 
 
@@ -42,7 +44,7 @@ Easy Access:
    The latest version of **KookaCode** can be conveniently downloaded from the AustSTEM website  
    at https://auststem.com.au/KookaCode.
 
-   Follow the :doc:`installing` guide in the next section to initiate and, for offline use to install **KookaCode**.
+   Follow the :doc:`installing` guide in the next section to initiate and, for offline use, to install **KookaCode**.
 
 Programming the Kookaberry With KookaCode
 -----------------------------------------
@@ -52,7 +54,7 @@ Using **KookaCode** is straight forward and enjoyable.
 Users can load, cut and paste, and directly edit **MicroPython**  code in the **Workspace**. 
 Code elements are coloured to emphasise **MicroPython** syntax elements.
 
-[The Kookaberry Reference Guide](https://kookaberry-reference-guide.readthedocs.io/en/latest/) provides a comprehensive guide 
+(The Kookaberry Reference Guide)[https://kookaberry-reference-guide.readthedocs.io/en/latest/] provides a comprehensive guide 
 to using the **Kookaberry** and programming it using **MicroPython**.
 
 With **KookaCode**, programming becomes an enjoyable, productive and accessible endeavour.

@@ -1,6 +1,11 @@
 Using the KookaCode Application
 ===============================
 
+This guide explains how to use the **KookaCode** application to create and un **MicroPython** scripts for the **Kookaberry**.
+
+To learn about MicroPython scripting for the **Kookaberry**, please refer to the 
+(**Kookaberry Reference Guide**)[https://kookaberry-reference-guide.readthedocs.io/en/latest/index.html]
+
 Launching KookaCode using a compatible browser on a personal computer will result in the display shown:
 
 .. _kblocsdisplay:
@@ -52,7 +57,7 @@ On the right is the **KookaCode** **Editing Workspace** for **MicroPython** scri
 
 Scripts can be typed, loaded from file, copied, cut and pasted in this space, by using a keyboard and mouse or track-pad or pointing device.  
 
-**KookaCode** embeds the [**CodeMirror**](https://codemirror.net) open‑source text editor to provide an in‑browser coding experience tailored for Python. 
+**KookaCode** embeds the (**CodeMirror**)[https://codemirror.net] open‑source text editor to provide an in‑browser coding experience tailored for Python. 
 The editor offers Python-aware syntax highlighting, so language constructs such as keywords, strings, numbers, comments, 
 and built‑ins are visually distinguished to improve readability and reduce syntax errors. 
 It also supports automatic indentation and standard code-editing features such as line numbers, bracket matching, 
@@ -129,7 +134,7 @@ REPL stands for Read-Eval-Print Loop. It provides an interactive programming env
 evaluates it, prints the result, and then loops back to read more input.
 
 The REPL is also known as **The MicroPython Interactive Interpreter Mode** which is fully described
- in [MicroPython REPL Documentation](https://docs.micropython.org/en/latest/reference/repl.html).
+ in (MicroPython REPL Documentation)[https://docs.micropython.org/en/latest/reference/repl.html].
 
 The REPL communicates with the connected **Kookaberry**'s' console and displays all the console output (e.g. the output of ``print()`` statements) 
 as well as any error messages.  In this way it is very useful for debugging scripts that are run on the connected **Kookaberry**.
@@ -152,9 +157,7 @@ The functions of each of the **KookaCode** Script Control buttons are:
 Connect
   Clicking the Connect button opens a dialogue window which shows which serial USB ports are available and which is 
   connected to a tethered **Kookaberry**. Plugging in a **Kookaberry** usually automatically assigns a USB serial port.
-  Select the serial port by clicking on it and then click the Connect button.
-
-See :numref:`serialselect`.
+  Select the serial port by clicking on it and then click the Connect button.  See :numref:`serialselect`.
 
 .. _serialselect:
 .. figure:: images/serial-select.png
